@@ -1,0 +1,19 @@
+{
+  "name": "Bot-Template",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord-akairo": "github:1Computer1/discord-akairo",
+    "discord.js": "github:discordjs/discord.js"
+  },
+  "devDependencies": {
+    "@types/node": "^14.0.13"
+  }
+}
